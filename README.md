@@ -7,7 +7,7 @@ It uses [doxygen](https://github.com/doxygen/doxygen) with great documentation g
 
 1. Setup `config.ini` to fit your needs.
     - This file contains your **Product Name**, **Version**, and **Logo**.
-    - Put your scripts path in `Input`.
+    - Put your scripts path **without a `\` at the end** in `Input`.
 2. Add your main index file's content in `main_content.html`.
 3. Edit `Logo.png` if you need to.
 4. Generate your document by executing `DocumentationGenerator.exe`
