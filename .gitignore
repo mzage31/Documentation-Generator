@@ -1,0 +1,6 @@
+/obj/
+/bin/Debug/
+/bin/Release/DocumentationGenerator.pdb
+/bin/Release/DocumentationGenerator.exe.config
+/.idea/
+/.git/
