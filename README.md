@@ -14,7 +14,7 @@ It uses [doxygen](https://github.com/doxygen/doxygen) with great documentation g
 5. Congrats! You have your documentation files inside the `html\` folder.
 
 ## Preview:
-
+![Preview Image](https://user-images.githubusercontent.com/13370906/164980204-18fa7044-820e-44f4-95c3-f4f42c813f60.png)
 
 ## Credits:
 
